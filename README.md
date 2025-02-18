@@ -1,2 +1,3 @@
-# bs_bootcamp
-bootcamp, creating a new repository 
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
